@@ -1,14 +1,14 @@
 const questions = [
-    { question: "test", answer: "test" },
-    { question: "", answer: "" },
-    { question: "", answer: "" },
-    { question: "", answer: "" },
-    { question: "", answer: "" },
-    { question: "", answer: "" },
-    { question: "", answer: "" },
-    { question: "", answer: "" },
-    { question: "", answer: "" },
-    { question: "", answer: "" }
+    { question: "Who is the main character in Cars", answer: "Lightnig MCQueen" },
+    { question: "What is the name of the small town where Lightning McQueen ends up after getting lost?", answer: "Radiator springs" },
+    { question: "When was the Cars movie made?", answer: "2006" },
+    { question: "Who is MCQeen's best friend?", answer: "Mater" },
+    { question: "what kind of car is MCQueen?", answer: "nascar" },
+    { question: "What route did MCQueen get lost on?", answer: "Route 66" },
+    { question: "what type of car is Mater?", answer: "Tow truck" },
+    { question: "Who won the Piston Cup in 1951, 1952, and 1953?", answer: "Doc Hudson" },
+    { question: "What is mMater really good at?", answer: "driving backwards" },
+    { question: "what is the name of MCQueens truck?", answer: "Mack" }
 ];
 
 let currentQuestionIndex = 0;
